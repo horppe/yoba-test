@@ -16,7 +16,7 @@ function App() {
         <div className='links'>
           <a><div>Home</div></a>
           <a><div>Company</div></a>
-          <a><div>Contant Us</div></a>
+          <a><div>Contact Us</div></a>
         </div>
 
         <button>Download App</button>
